@@ -1,7 +1,7 @@
 Automation Testing Capstone Project
 Create a Testing Framework for Sporty Shoes Website
 Name : Ganesh Reddy Jeereddy
-Email : gjeeredd@cisco.com
+Email : ganeshreddy.jeereddy@gmail.com
 Github : https://github.com/GaneshReddyJeereddy/ATE-Capstone-Project-
 
 Problem Statement and Motivation Real-Time Scenario:
